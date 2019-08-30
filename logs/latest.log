@@ -1,15 +1,398 @@
-[00:00:36] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[00:00:36] [Server thread/INFO]: Chlyster left the game
-[00:00:41] [Server thread/INFO]: Stopping the server
-[00:00:41] [Server thread/INFO]: Stopping server
-[00:00:41] [Server thread/INFO]: Saving players
-[00:00:41] [Server thread/INFO]: Saving worlds
-[00:00:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:00:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:00:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:00:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:00:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:42:36] [User Authenticator #13/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[07:42:36] [Server thread/INFO]: Phicurius[/78.22.64.44:52465] logged in with entity id 76230 at (-1876.773625325052, 70.0, 272.35986217233585)
+[07:42:36] [Server thread/INFO]: Phicurius joined the game
+[08:36:22] [Server thread/INFO]: Phicurius has made the advancement [Diamonds!]
+[08:45:25] [Server thread/INFO]: Phicurius was blown up by Creeper
+[09:38:26] [Server thread/INFO]: Phicurius was shot by Pillager
+[09:44:50] [Server thread/INFO]: Phicurius was blown up by Creeper
+[09:59:16] [User Authenticator #14/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[09:59:16] [Server thread/INFO]: Chlyster[/141.134.253.168:50938] logged in with entity id 93755 at (-58.38508049704038, 58.0, -133.55705979557283)
+[09:59:16] [Server thread/INFO]: Chlyster joined the game
+[10:06:21] [Server thread/INFO]: <Phicurius> zzz
+[10:06:25] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[10:06:25] [Server thread/INFO]: Chlyster left the game
+[10:06:36] [User Authenticator #15/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[10:06:36] [Server thread/INFO]: Chlyster[/141.134.253.168:51023] logged in with entity id 95720 at (-159.47170462857315, 25.0, -86.8573507489101)
+[10:06:36] [Server thread/INFO]: Chlyster joined the game
+[10:06:42] [Server thread/INFO]: <Chlyster> is het gelukt om te slapen ?
+[10:07:37] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[10:07:37] [Server thread/INFO]: Chlyster left the game
+[10:21:41] [Server thread/INFO]: Phicurius tried to swim in lava
+[10:23:51] [Server thread/INFO]: Phicurius tried to swim in lava
+[10:38:21] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[10:38:21] [Server thread/INFO]: Phicurius left the game
+[10:51:57] [User Authenticator #16/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[10:51:57] [Server thread/INFO]: _LordXara_[/213.118.25.89:64130] logged in with entity id 99798 at (-67.11069739355246, 58.0, -150.5041494769885)
+[10:51:57] [Server thread/INFO]: _LordXara_ joined the game
+[10:57:46] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
+[10:57:46] [Server thread/INFO]: _LordXara_ left the game
+[11:11:45] [User Authenticator #17/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[11:11:45] [Server thread/INFO]: Chlyster[/141.134.253.168:51733] logged in with entity id 101173 at (-132.65516863276628, 11.0, -97.69999998807907)
+[11:11:45] [Server thread/INFO]: Chlyster joined the game
+[11:48:08] [User Authenticator #18/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[11:48:08] [Server thread/INFO]: Phicurius[/78.22.64.44:54767] logged in with entity id 106756 at (-1889.9380050502725, 70.0, 272.17021081273583)
+[11:48:08] [Server thread/INFO]: Phicurius joined the game
+[11:48:29] [User Authenticator #19/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[11:48:29] [Server thread/INFO]: _LordXara_[/213.118.25.89:65172] logged in with entity id 107108 at (-1159.4713301024658, 63.0, 426.64497114439376)
+[11:48:29] [Server thread/INFO]: _LordXara_ joined the game
+[11:51:41] [Server thread/WARN]: Phicurius moved too quickly! -9.838172321729417,0.0,-2.2495099445140454
+[11:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[11:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[12:00:53] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[12:00:53] [Server thread/INFO]: Chlyster left the game
+[12:01:05] [User Authenticator #20/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[12:01:05] [Server thread/INFO]: Chlyster[/141.134.253.168:52239] logged in with entity id 113499 at (-70.64675589997915, 58.0, -132.13200313356347)
+[12:01:05] [Server thread/INFO]: Chlyster joined the game
+[12:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[12:06:49] [Server thread/WARN]: _LordXara_ moved too quickly! 0.19936903651313287,-0.37673561378172593,-10.422816286574289
+[12:06:49] [Server thread/WARN]: Phicurius moved too quickly! 3.856035883372442,-1.0,9.393241893293208
+[12:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
+[12:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[12:12:12] [Server thread/INFO]: <_LordXara_> zzz
+[12:12:20] [Server thread/INFO]: <Chlyster> zzz
+[12:12:44] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[12:12:44] [Server thread/INFO]: Phicurius left the game
+[12:12:54] [User Authenticator #21/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[12:12:54] [Server thread/INFO]: Phicurius[/78.22.64.44:54934] logged in with entity id 120117 at (-1879.6122937738294, 70.0, 267.4656516256571)
+[12:12:54] [Server thread/INFO]: Phicurius joined the game
+[12:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[12:23:54] [Server thread/INFO]: <Chlyster> zzz
+[12:24:07] [Server thread/INFO]: <_LordXara_> zzz
+[12:24:12] [Server thread/INFO]: <Phicurius> zzz
+[12:26:29] [Server thread/INFO]: _LordXara_ has made the advancement [A Seedy Place]
+[12:26:56] [Server thread/WARN]: _LordXara_ moved too quickly! 2.7883327359277246,-0.49520087700592086,9.801480039294177
+[12:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[12:29:09] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[12:29:09] [Server thread/INFO]: Phicurius left the game
+[12:30:28] [User Authenticator #22/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[12:30:28] [Server thread/INFO]: Phicurius[/78.22.64.44:55112] logged in with entity id 128477 at (-1921.959922920425, 63.0, 277.550162249407)
+[12:30:28] [Server thread/INFO]: Phicurius joined the game
+[12:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[12:32:59] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[12:32:59] [Server thread/INFO]: Chlyster left the game
+[12:34:34] [User Authenticator #23/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[12:34:34] [Server thread/INFO]: Chlyster[/141.134.253.168:52589] logged in with entity id 130394 at (-73.71697704638603, 58.0, -140.78639435339412)
+[12:34:34] [Server thread/INFO]: Chlyster joined the game
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -3.8778681179644536,0.0,-9.26546145113167
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -4.197707128869752,0.0,-9.468555971818262
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -4.51712202247495,0.0,-9.675917029012737
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -4.835651631365408,0.0,-9.88775133350589
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -5.1529201433618255,0.0,-10.104173066017324
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -5.438461796594311,0.0,-10.298952620117689
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -5.695449277695843,0.0,-10.474254214164148
+[13:07:00] [Server thread/WARN]: Boat (vehicle of _LordXara_) moved too quickly! -5.926738004560093,0.0,-10.632025644626424
+[13:07:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[13:13:56] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[13:13:56] [Server thread/INFO]: Phicurius left the game
+[13:28:49] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
+[13:28:49] [Server thread/INFO]: _LordXara_ left the game
+[13:31:18] [User Authenticator #24/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[13:31:18] [Server thread/INFO]: _LordXara_[/213.118.25.89:49564] logged in with entity id 152623 at (-55.239855387680414, 58.0, -139.0024738740749)
+[13:31:18] [Server thread/INFO]: _LordXara_ joined the game
+[13:31:32] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
+[13:31:32] [Server thread/INFO]: _LordXara_ left the game
+[13:31:59] [User Authenticator #25/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[13:31:59] [Server thread/INFO]: Phicurius[/78.22.64.44:55657] logged in with entity id 152675 at (-1890.042009440101, 82.0, 273.7472395347906)
+[13:31:59] [Server thread/INFO]: Phicurius joined the game
+[13:46:12] [User Authenticator #26/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
+[13:46:13] [Server thread/INFO]: Zothuis[/84.194.201.40:49748] logged in with entity id 155812 at (335.49551511380207, 63.0, 1681.97539323464)
+[13:46:13] [Server thread/INFO]: Zothuis joined the game
+[13:48:11] [Server thread/INFO]: <Zothuis> Pieter, hoor jij mij? :p
+[13:48:14] [Server thread/INFO]: <Phicurius> nee
+[13:48:22] [Server thread/INFO]: <Phicurius> ge zijt gemute
+[14:16:46] [Server thread/INFO]: <Phicurius> zzz
+[14:16:52] [Server thread/INFO]: Zothuis lost connection: Disconnected
+[14:16:52] [Server thread/INFO]: Zothuis left the game
+[14:17:06] [User Authenticator #27/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
+[14:17:06] [Server thread/INFO]: Zothuis[/84.194.201.40:50395] logged in with entity id 169851 at (338.85380169938475, 63.0, 1665.0216402675755)
+[14:17:06] [Server thread/INFO]: Zothuis joined the game
+[14:17:15] [Server thread/INFO]: <Zothuis> zzz
+[14:17:23] [Server thread/INFO]: <Phicurius> oke nvm chiel is afk
+[14:17:28] [Server thread/INFO]: <Zothuis> :p
+[14:24:03] [User Authenticator #28/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
+[14:24:03] [Server thread/INFO]: Alkram[/141.134.43.49:56076] logged in with entity id 173650 at (-762.066952074148, 78.0, 1358.475188246347)
+[14:24:03] [Server thread/INFO]: Alkram joined the game
+[14:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[14:28:33] [Server thread/INFO]: Alkram lost connection: Disconnected
+[14:28:33] [Server thread/INFO]: Alkram left the game
+[14:30:48] [User Authenticator #29/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[14:30:48] [Server thread/INFO]: _LordXara_[/213.118.25.89:50034] logged in with entity id 177062 at (-55.27568396879214, 58.0, -138.01064305718228)
+[14:30:48] [Server thread/INFO]: _LordXara_ joined the game
+[14:31:54] [User Authenticator #30/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
+[14:31:54] [Server thread/INFO]: Alkram[/141.134.43.49:49931] logged in with entity id 177574 at (-766.3755142525831, 78.0, 1356.8954240584035)
+[14:31:54] [Server thread/INFO]: Alkram joined the game
+[14:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[14:37:58] [Server thread/INFO]: <Phicurius> zzz
+[14:38:03] [Server thread/INFO]: <Alkram> zzz
+[14:47:07] [Server thread/WARN]: Chlyster moved too quickly! -5.894220759089208,-1.130906499714527,8.17025454218242
+[14:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[14:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3630ms or 72 ticks behind
+[14:55:50] [Server thread/INFO]: <Alkram> zzz
+[14:55:55] [Server thread/INFO]: <Phicurius> zzz
+[14:56:04] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[14:56:04] [Server thread/INFO]: Chlyster left the game
+[14:56:10] [User Authenticator #31/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[14:56:10] [Server thread/INFO]: Chlyster[/141.134.253.168:54198] logged in with entity id 198961 at (-73.55213379055587, 57.0, -137.30000001192093)
+[14:56:10] [Server thread/INFO]: Chlyster joined the game
+[14:56:13] [Server thread/INFO]: <Zothuis> zz
+[14:56:27] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
+[14:56:27] [Server thread/INFO]: _LordXara_ left the game
+[14:56:32] [User Authenticator #32/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[14:56:32] [Server thread/INFO]: _LordXara_[/213.118.25.89:50292] logged in with entity id 199306 at (-1322.5893915189265, 9.0, 403.34419911894304)
+[14:56:32] [Server thread/INFO]: _LordXara_ joined the game
+[14:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3437ms or 68 ticks behind
+[14:59:34] [Server thread/WARN]: Alkram moved too quickly! 0.26154865915702885,-11.14161161612887,0.4439612788289651
+[15:00:59] [Server thread/INFO]: Phicurius was shot by Pillager
+[15:01:02] [Server thread/INFO]: <_LordXara_> f
+[15:01:03] [Server thread/INFO]: <Alkram> f
+[15:01:04] [Server thread/INFO]: <Chlyster> f
+[15:01:10] [Server thread/INFO]: <Zothuis> f
+[15:02:18] [Server thread/WARN]: Alkram moved too quickly! -8.90236235078305,-2.231523797587016,4.331318196759867
+[15:02:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[15:04:51] [Server thread/INFO]: <Phicurius> -1962/262
+[15:05:52] [Server thread/INFO]: <Zothuis> bamboe delivery
+[15:06:03] [Server thread/INFO]: <_LordXara_> BAMBOEZLED
+[15:06:49] [Server thread/INFO]: <_LordXara_> bemboozled
+[15:07:22] [Server thread/WARN]: Zothuis moved too quickly! -0.1785038892999653,0.42355929454303975,10.094629778343055
+[15:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3913ms or 78 ticks behind
+[15:07:26] [Server thread/WARN]: Zothuis moved too quickly! 6.420269369754184,0.0,7.669235732650634
+[15:12:09] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[15:12:09] [Server thread/INFO]: Chlyster left the game
+[15:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3453ms or 69 ticks behind
+[15:16:51] [Server thread/INFO]: Alkram has made the advancement [Suit Up]
+[15:16:54] [Server thread/INFO]: <_LordXara_> gg
+[15:16:57] [Server thread/INFO]: <Zothuis> gg
+[15:17:19] [Server thread/INFO]: Phicurius was blown up by Creeper
+[15:17:23] [Server thread/INFO]: <_LordXara_> f
+[15:17:23] [Server thread/INFO]: <Alkram> f
+[15:17:28] [Server thread/WARN]: Alkram moved too quickly! -1.4349088881988337,-10.202907869620475,-0.7857371392515233
+[15:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[15:17:33] [User Authenticator #33/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[15:17:33] [Server thread/INFO]: Chlyster[/141.134.253.168:54492] logged in with entity id 215366 at (-58.36110400571338, 58.0, -147.5236003293451)
+[15:17:33] [Server thread/INFO]: Chlyster joined the game
+[15:17:33] [Server thread/WARN]: Fetching packet for removed entity avm['Zombie'/211914, l='world', x=-44.10, y=74.35, z=-190.50]
+[15:17:35] [Server thread/INFO]: <Chlyster> f
+[15:19:19] [Server thread/INFO]: Phicurius has made the advancement [Ice Bucket Challenge]
+[15:19:21] [Server thread/INFO]: <Alkram> gg
+[15:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[15:21:22] [Server thread/INFO]: <_LordXara_> 245/33
+[15:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[15:23:42] [Server thread/INFO]: Zothuis lost connection: Disconnected
+[15:23:42] [Server thread/INFO]: Zothuis left the game
+[15:27:38] [Server thread/WARN]: Chlyster moved too quickly! -10.216426755308134,1.2283638547682258,0.8494349879490528
+[15:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
+[15:29:52] [Server thread/WARN]: Chlyster moved too quickly! 3.4772461987363386,-0.7012968536522237,9.399168532828867
+[15:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4257ms or 85 ticks behind
+[15:35:29] [Server thread/INFO]: Alkram has made the advancement [Not Today, Thank You]
+[15:35:31] [Server thread/INFO]: <_LordXara_> gg
+[15:35:35] [Server thread/INFO]: <Chlyster> gg
+[15:37:45] [Server thread/WARN]: Phicurius moved too quickly! -0.05823304156967879,0.0,-10.10107063512471
+[15:37:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[15:41:39] [Server thread/INFO]: <_LordXara_> f
+[15:41:40] [Server thread/INFO]: <Chlyster> SCAFFOLDING
+[15:42:32] [Server thread/INFO]: Alkram has made the advancement [We Need to Go Deeper]
+[15:42:47] [Server thread/WARN]: Phicurius moved too quickly! -10.10094114999734,0.0,0.07255005644042001
+[15:43:33] [Server thread/INFO]: <_LordXara_> -98/172
+[15:46:20] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[15:46:20] [Server thread/INFO]: Chlyster left the game
+[15:47:49] [Server thread/WARN]: Phicurius moved too quickly! 4.727709335488953,2.0,8.725109017006758
+[15:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3879ms or 77 ticks behind
+[15:50:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[15:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[15:52:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
+[15:57:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[16:00:05] [User Authenticator #34/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[16:00:05] [Server thread/INFO]: Chlyster[/141.134.253.168:54982] logged in with entity id 238297 at (-52.42511079627355, 58.0, -151.07366065242584)
+[16:00:05] [Server thread/INFO]: Chlyster joined the game
+[16:03:01] [Server thread/WARN]: _LordXara_ moved too quickly! 0.281984849124683,1.4199999868869781,10.348223158518408
+[16:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[16:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[16:08:11] [Server thread/INFO]: <Phicurius> zzz
+[16:08:22] [Server thread/INFO]: <Chlyster> zzz
+[16:08:29] [Server thread/INFO]: <Alkram> zzz
+[16:09:39] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[16:09:39] [Server thread/INFO]: Phicurius left the game
+[16:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[16:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[16:20:21] [Server thread/INFO]: <Alkram> zzz
+[16:23:43] [Server thread/INFO]: <_LordXara_> -10/18
+[16:28:12] [Server thread/WARN]: _LordXara_ moved too quickly! 10.218892597957359,0.49520087700591375,-0.6494019725648243
+[16:28:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[16:29:48] [Server thread/INFO]: Chlyster has completed the challenge [Return to Sender]
+[16:29:50] [Server thread/INFO]: <Alkram> gg
+[16:33:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[16:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:39:04] [Server thread/INFO]: <Chlyster> g
+[16:39:05] [Server thread/INFO]: <Chlyster> f
+[16:41:41] [Server thread/INFO]: Alkram has made the advancement [Take Aim]
+[16:43:20] [Server thread/WARN]: Alkram moved too quickly! -3.5681142872685996,2.176759275064242,9.332860421727446
+[16:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[16:47:53] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
+[16:47:53] [Server thread/INFO]: _LordXara_ left the game
+[16:48:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[17:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
+[17:06:29] [Server thread/INFO]: Alkram has made the advancement [A Seedy Place]
+[17:11:43] [Server thread/INFO]: Alkram lost connection: Disconnected
+[17:11:43] [Server thread/INFO]: Alkram left the game
+[17:11:55] [User Authenticator #35/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
+[17:11:56] [Server thread/INFO]: Alkram[/141.134.43.49:51027] logged in with entity id 265785 at (353.056746063013, 63.0, 1694.2093917832497)
+[17:11:56] [Server thread/INFO]: Alkram joined the game
+[17:12:10] [Server thread/INFO]: Alkram lost connection: Disconnected
+[17:12:10] [Server thread/INFO]: Alkram left the game
+[17:26:31] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[17:26:31] [Server thread/INFO]: Chlyster left the game
+[17:42:13] [User Authenticator #36/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[17:42:13] [Server thread/INFO]: Phicurius[/78.22.64.44:57574] logged in with entity id 267615 at (-1883.0464573794595, 70.0, 272.50781736957396)
+[17:42:13] [Server thread/INFO]: Phicurius joined the game
+[18:14:41] [User Authenticator #37/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[18:14:41] [Server thread/INFO]: _LordXara_[/213.118.25.89:52100] logged in with entity id 272278 at (-787.4676492600009, 162.0, 1371.699999988079)
+[18:14:41] [Server thread/INFO]: _LordXara_ joined the game
+[18:18:27] [Server thread/WARN]: _LordXara_ moved too quickly! 0.03359022061657413,-6.768476202412984,-7.586307455992255
+[18:35:13] [User Authenticator #38/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
+[18:35:13] [Server thread/INFO]: Alkram[/141.134.43.49:51420] logged in with entity id 279776 at (36.67485213144011, 77.0, 203.37453688662254)
+[18:35:13] [Server thread/INFO]: Alkram joined the game
+[18:37:15] [Server thread/INFO]: Alkram has completed the challenge [Return to Sender]
+[18:37:18] [Server thread/INFO]: <_LordXara_> gg
+[18:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[18:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[18:43:03] [Server thread/WARN]: Alkram moved too quickly! -7.076289282569974,1.0,7.041722982482497
+[18:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[18:48:48] [Server thread/INFO]: <_LordXara_> zzz
+[18:48:59] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[18:48:59] [Server thread/INFO]: Phicurius left the game
+[18:49:11] [User Authenticator #39/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[18:49:11] [Server thread/INFO]: Phicurius[/78.22.64.44:58032] logged in with entity id 285700 at (-1941.1609357869288, 12.0, 227.1140396434585)
+[18:49:11] [Server thread/INFO]: Phicurius joined the game
+[19:00:15] [Server thread/INFO]: Phicurius was shot by Skeleton
+[19:00:17] [Server thread/INFO]: <_LordXara_> f
+[19:00:17] [Server thread/INFO]: <Alkram> gg
+[19:00:18] [Server thread/INFO]: <Alkram> g
+[19:00:19] [Server thread/INFO]: <Alkram> f
+[19:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[19:05:13] [Server thread/INFO]: <_LordXara_> gg
+[19:06:15] [Server thread/INFO]: <_LordXara_> smikkel smokkel smekkel klaas trekt nogal veel aan zijne schmekle
+[19:06:55] [Server thread/INFO]: <_LordXara_> *based on a true story*
+[19:07:22] [Server thread/INFO]: * _LordXara_ is awesome
+[19:09:51] [Server thread/INFO]: Phicurius was slain by Zombie
+[19:09:55] [Server thread/INFO]: <Alkram> f
+[19:10:03] [Server thread/INFO]: <_LordXara_> f
+[19:12:59] [Server thread/INFO]: _LordXara_ has completed the challenge [Return to Sender]
+[19:13:01] [Server thread/INFO]: <Alkram> gg
+[19:13:41] [Server thread/WARN]: _LordXara_ moved too quickly! -10.287182912890131,0.8322033533667508,0.07482103088017311
+[19:13:41] [Server thread/WARN]: Alkram moved too quickly! 1.1773434357755832,4.419999986886978,9.42815690632915
+[19:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5104ms or 102 ticks behind
+[19:18:44] [Server thread/WARN]: Alkram moved too quickly! 9.24167268267297,3.7531999805212024,-1.207381072545104
+[19:18:44] [Server thread/WARN]: Phicurius moved too quickly! 10.008045798381318,-2.0,0.004657492982261147
+[19:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[19:18:44] [Server thread/WARN]: _LordXara_ moved wrongly!
+[19:20:58] [Server thread/INFO]: _LordXara_ has made the advancement [Voluntary Exile]
+[19:21:03] [Server thread/INFO]: <Alkram> gg
+[19:22:53] [Server thread/INFO]: Alkram was blown up by Creeper
+[19:22:58] [Server thread/INFO]: <_LordXara_> f
+[19:23:23] [Server thread/INFO]: Phicurius was shot by Skeleton
+[19:23:27] [Server thread/INFO]: <_LordXara_> f
+[19:23:28] [Server thread/INFO]: <Alkram> f
+[19:23:46] [Server thread/WARN]: Alkram moved too quickly! -6.006926783246371,-3.1661092609382138,7.576535206882909
+[19:23:46] [Server thread/WARN]: Phicurius moved too quickly! 0.06245794439450947,-7.304316827457541,7.147058093304395
+[19:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[19:24:53] [Server thread/INFO]: Alkram was shot by Stray
+[19:25:02] [Server thread/INFO]: <_LordXara_> f
+[19:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:28:52] [Server thread/WARN]: _LordXara_ moved too quickly! 9.347460930013312,1.252203340253729,3.9055850328323487
+[19:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4335ms or 86 ticks behind
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 10.399886870411706,0.0,0.04686294315888517
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 10.799882519273751,0.0,0.048665364049611526
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 11.199878168135683,0.0,0.05046778494033788
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 11.599873816997729,0.0,0.05227020583106423
+[19:33:56] [Server thread/WARN]: _LordXara_ moved too quickly! 10.145155056882686,-1.604424101326714,0.9597402145280967
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 11.99986946585966,0.0,0.054072626721790584
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 12.399865114721706,0.0,0.05587504761251694
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 12.799860763583638,0.0,0.05767746850324329
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 13.199856412445683,0.0,0.05947988939396964
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 13.599852061307615,0.0,0.061282310284695996
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 13.99984771016966,0.0,0.06308473117542235
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.399843359031593,0.0,0.0648871520661487
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.799839007893638,0.0,0.06668957295687505
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.19983465675557,0.0,0.0684919938476014
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.599830305617616,0.0,0.07029441473832776
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.999825954479547,0.0,0.07209683562905411
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 16.399821603341593,0.0,0.07389925651978047
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 16.799817252203525,0.0,0.07570167741050682
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 17.19981290106557,0.0,0.07750409830123317
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 17.599808549927502,0.0,0.07930651919195952
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 17.999804198789548,0.0,0.08110894008268588
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 18.39979984765148,0.0,0.08291136097341223
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 18.799795496513525,0.0,0.08471378186413858
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 19.199791145375457,0.0,0.08651620275486493
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 19.599786794237502,0.0,0.08831862364559129
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 19.999782443099434,0.0,0.09012104453631764
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 20.39977809196148,0.0,0.091923465427044
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 20.79977374082341,0.0,0.09372588631777035
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 21.199769389685457,0.0,0.0955283072084967
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 21.59976503854739,0.0,0.09733072809922305
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 21.999760687409434,0.0,0.0991331489899494
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 22.399756336271366,0.0,0.10093556988067576
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 22.799751985133412,0.0,0.10273799077140211
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 23.199747633995344,0.0,0.10454041166212846
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 23.59974328285739,0.0,0.10634283255285482
+[19:33:56] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 23.99973893171932,0.0,0.10814525344358117
+[19:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4217ms or 84 ticks behind
+[19:33:57] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.399843359031593,0.0,0.0648871520661487
+[19:33:57] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.799839007893524,0.0,0.06668957295687505
+[19:33:57] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.19983465675557,0.0,0.0684919938476014
+[19:33:57] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.599830305617502,0.0,0.07029441473832776
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 9.876993582476189,0.0,3.1155763340825615
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 10.253578259188089,0.0,3.249332623788632
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 10.629807582873468,0.0,3.3841484329268496
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 11.005214681292614,0.0,3.5211541756370934
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 11.379096724215401,0.0,3.661859100772972
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 11.750493763588338,0.0,3.8080290101077026
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 12.118545232475071,0.0,3.960978589926526
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 12.482503766843706,0.0,4.121649856484055
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 12.841738995051287,0.0,4.290681453061552
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 13.195733786508868,0.0,4.46846912673368
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 13.54408018816423,0.0,4.655212269152798
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 13.886474415056114,0.0,4.850951461429986
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.222703911480835,0.0,5.0556063381302465
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.552638276493326,0.0,5.269002514173735
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 14.876216307997424,0.0,5.4908971620129705
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.193444182781832,0.0,5.720990665230602
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.504378315756526,0.0,5.958948955063988
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 15.809117476979509,0.0,6.204415046970325
+[19:34:53] [Server thread/WARN]: Boat (vehicle of Alkram) moved too quickly! 16.107244557044623,0.0,6.457435387588475
+[19:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:34:53] [Server thread/WARN]: Boat moved wrongly!
+[19:39:03] [Server thread/WARN]: Alkram moved too quickly! -9.984088575804662,0.001335979112141672,-0.9330085981657703
+[19:39:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
+[19:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[19:44:02] [Server thread/INFO]: Alkram lost connection: Disconnected
+[19:44:02] [Server thread/INFO]: Alkram left the game
+[19:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[19:44:09] [User Authenticator #40/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
+[19:44:09] [Server thread/INFO]: Alkram[/141.134.43.49:51734] logged in with entity id 318769 at (-685.4863846929949, 63.10075836464795, 1354.6356648125775)
+[19:44:09] [Server thread/INFO]: Alkram joined the game
+[19:45:27] [User Authenticator #41/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
+[19:45:27] [Server thread/INFO]: Zothuis[/84.194.201.40:50037] logged in with entity id 319184 at (345.30332519695475, 65.0, 1667.0152908515354)
+[19:45:27] [Server thread/INFO]: Zothuis joined the game
+[19:45:47] [Server thread/WARN]: Alkram moved too quickly! 5.869756842091988,2.249187078744683,8.11067713253783
+[19:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
