@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2019-08-31 10:12:55 +0000",
+      "minecraft:snowy_tundra": "2019-08-31 10:12:39 +0000",
+      "minecraft:snowy_taiga": "2019-08-31 10:05:58 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
