@@ -1,533 +1,86 @@
-[07:43:46] [User Authenticator #47/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[07:43:47] [Server thread/INFO]: Phicurius[/78.22.64.44:59373] logged in with entity id 369311 at (-1889.4367626243902, 70.0, 271.5346383762609)
-[07:43:47] [Server thread/INFO]: Phicurius joined the game
-[07:56:07] [Server thread/INFO]: Phicurius has made the advancement [A Seedy Place]
-[08:10:50] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[08:10:50] [Server thread/INFO]: Phicurius left the game
-[08:21:48] [User Authenticator #48/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[08:21:48] [Server thread/INFO]: Phicurius[/78.22.64.44:59711] logged in with entity id 373250 at (-1893.2908698670265, 74.0, 267.6730789138428)
-[08:21:48] [Server thread/INFO]: Phicurius joined the game
-[08:43:49] [Server thread/INFO]: Phicurius was shot by Skeleton
-[08:44:39] [Server thread/INFO]: Phicurius was shot by Skeleton
-[08:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5802ms or 116 ticks behind
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Sugar Cane'/378936, l='world', x=-1161.13, y=71.50, z=483.52]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Bread'/378932, l='world', x=-1161.13, y=72.00, z=484.50]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Powered Rail'/378935, l='world', x=-1161.86, y=72.00, z=484.65]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Granite'/378931, l='world', x=-1162.13, y=72.00, z=484.84]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Redstone Torch'/378927, l='world', x=-1161.13, y=72.00, z=484.26]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Water Bucket'/378924, l='world', x=-1161.50, y=72.00, z=483.93]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Iron Ingot'/378925, l='world', x=-1161.59, y=72.00, z=484.16]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Gold Ingot'/378926, l='world', x=-1161.97, y=72.00, z=485.08]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Iron Sword'/378918, l='world', x=-1161.13, y=72.00, z=484.16]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Bone'/378933, l='world', x=-1161.80, y=72.00, z=484.50]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Redstone Dust'/378934, l='world', x=-1161.29, y=72.00, z=484.99]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Shield'/378917, l='world', x=-1161.13, y=72.00, z=484.81]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Diamond Pickaxe'/378916, l='world', x=-1161.82, y=71.50, z=483.50]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Gunpowder'/378914, l='world', x=-1161.13, y=72.00, z=484.24]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Iron Hoe'/378923, l='world', x=-1161.17, y=71.50, z=483.47]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Stick'/378919, l='world', x=-1161.93, y=72.00, z=484.48]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Oak Planks'/378915, l='world', x=-1161.21, y=72.00, z=483.98]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Arrow'/378930, l='world', x=-1161.57, y=72.00, z=484.64]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Stone Axe'/378928, l='world', x=-1161.47, y=72.00, z=484.22]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Wheat'/378922, l='world', x=-1161.13, y=72.00, z=484.50]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Rail'/378920, l='world', x=-1160.90, y=71.50, z=483.41]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Glass'/378929, l='world', x=-1160.94, y=71.50, z=483.45]
-[08:46:20] [Server thread/WARN]: Fetching packet for removed entity atx['Coal'/378921, l='world', x=-1161.70, y=72.00, z=483.89]
-[08:54:24] [Server thread/INFO]: Phicurius was blown up by Creeper
-[09:08:59] [Server thread/INFO]: Phicurius was blown up by Creeper
-[09:32:06] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[09:32:06] [Server thread/INFO]: Phicurius left the game
-[09:50:05] [User Authenticator #49/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[09:50:05] [Server thread/INFO]: Phicurius[/78.22.64.44:60489] logged in with entity id 387756 at (-1897.9063163383307, 70.0, 273.54390196825267)
-[09:50:05] [Server thread/INFO]: Phicurius joined the game
-[10:05:58] [User Authenticator #50/INFO]: UUID of player MrJohnGotti is 69b0c7d4-2721-4cbe-8157-1a76c40acfea
-[10:05:58] [Server thread/INFO]: MrJohnGotti[/178.116.140.214:55859] logged in with entity id 390192 at (-30.5, 71.0, 63.5)
-[10:05:58] [Server thread/INFO]: MrJohnGotti joined the game
-[10:06:12] [Server thread/INFO]: MrJohnGotti lost connection: Disconnected
-[10:06:12] [Server thread/INFO]: MrJohnGotti left the game
-[10:08:43] [User Authenticator #51/INFO]: UUID of player MrJohnGotti is 69b0c7d4-2721-4cbe-8157-1a76c40acfea
-[10:08:43] [Server thread/INFO]: MrJohnGotti[/178.116.140.214:55869] logged in with entity id 390848 at (-30.5, 71.0, 63.5)
-[10:08:43] [Server thread/INFO]: MrJohnGotti joined the game
-[10:08:57] [User Authenticator #52/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[10:08:57] [Server thread/INFO]: _LordXara_[/213.118.25.89:54618] logged in with entity id 390978 at (335.50827931541676, 63.0, 1684.1563407047984)
-[10:08:57] [Server thread/INFO]: _LordXara_ joined the game
-[10:09:09] [Server thread/INFO]: <_LordXara_> howdy boys
-[10:09:14] [Server thread/INFO]: <Phicurius> yuuuw
-[10:09:20] [Server thread/INFO]: <_LordXara_> no discord?
-[10:09:36] [Server thread/INFO]: <MrJohnGotti> Waka Waka im the god of HellFire..
-[10:09:44] [Server thread/INFO]: <_LordXara_> lol xD
-[10:09:56] [Server thread/INFO]: <MrJohnGotti> Rain will fall and souls will join
-[10:09:56] [Server thread/INFO]: <_LordXara_> al lang bezig? :)
-[10:10:04] [Server thread/INFO]: <MrJohnGotti> 20sec
-[10:10:11] [Server thread/INFO]: <_LordXara_> lol goeie timing :)
-[10:10:37] [Server thread/INFO]: <MrJohnGotti> kmoe eerst nog douchen en stofzuigen/Dweilen met die kleine monsters hier
-[10:10:49] [Server thread/INFO]: <MrJohnGotti> Dan Stream opzetten en Gameeeeeeen
-[10:10:52] [Server thread/INFO]: <MrJohnGotti> hehe
-[10:10:52] [Server thread/INFO]: <_LordXara_> ^^
-[10:10:55] [Server thread/INFO]: <_LordXara_> hoort erbij eh :p
-[10:11:03] [Server thread/INFO]: <MrJohnGotti> Lord is Lander?
-[10:11:09] [Server thread/INFO]: <_LordXara_> pierre komt ge op discord? of moet ge 'studeren'?
-[10:11:10] [Server thread/INFO]: <_LordXara_> yup
-[10:11:13] [Server thread/INFO]: <MrJohnGotti> Cool
-[10:11:22] [Server thread/INFO]: <_LordXara_> phicurius is pieter
-[10:11:26] [Server thread/INFO]: <_LordXara_> chlyster is chiel
-[10:11:29] [Server thread/INFO]: <MrJohnGotti> Je broer dan
-[10:11:30] [Server thread/INFO]: <_LordXara_> alkram is klaas
-[10:11:34] [Server thread/INFO]: <_LordXara_> nee das klaas
-[10:11:34] [Server thread/INFO]: <MrJohnGotti> Aja zo
-[10:11:38] [Server thread/INFO]: <_LordXara_> & zothuis is tom
-[10:11:57] [Server thread/INFO]: <MrJohnGotti> mja via discord zal ik het dan beter verstaan wie da wie is alle toe tonne e Bro's
-[10:12:12] [Server thread/INFO]: <_LordXara_> yo :)
-[10:12:25] [Server thread/INFO]: <MrJohnGotti> hmm din,gen die ik breek komen automatish terug?
-[10:12:44] [Server thread/INFO]: <_LordXara_> da zal wa server lag zijn
-[10:13:34] [Server thread/INFO]: <MrJohnGotti> Lag op minecraft dan is het niet zo een krachtige server? we hadden vroeger een map die je
-[10:13:42] [Server thread/INFO]: <MrJohnGotti> een jaar nodig had om te crossen
-[10:13:59] [Server thread/INFO]: <MrJohnGotti> ik ken er wel geen kloten meer van alles wat ik deed was via youtube geleerd
-[10:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[10:14:27] [Server thread/INFO]: <MrJohnGotti> Wanneer komen die nieuwe raytracers erop ik dacht dat het al active was
-[10:14:28] [Server thread/INFO]: <_LordXara_> ja tis niet optimaal maar tis een gratis via de pa van tom & een sterkere server zou beginnen geld kosten :p tis de cpu die momenteel wat gelimiteerd is
-[10:14:38] [Server thread/INFO]: <MrJohnGotti> ziet er wel beest uit e
-[10:14:44] [Server thread/INFO]: <_LordXara_> raytracers? :o
-[10:14:54] [Server thread/INFO]: <MrJohnGotti> je weet ik heb hier nog altijd me server staan eh
-[10:15:00] [Server thread/INFO]: <MrJohnGotti> ja van nvidia
-[10:15:05] [Server thread/INFO]: <MrJohnGotti> nieuw echt zalig
-[10:15:17] [Server thread/INFO]: <MrJohnGotti> nvidia en mojang collab
-[10:15:30] [Server thread/INFO]: <_LordXara_> idk server shit moet ge maar met tom & chiel bespreken ik ken daar niks van :) zij maken backups & zetten server op enal
-[10:15:55] [Server thread/INFO]: <MrJohnGotti> tuurlijk we zien wel e sowieso host ik nu enkel nog ark en 7DTD
-[10:16:16] [Server thread/INFO]: <MrJohnGotti> kheb plaats genoeg voor een zieke server erop te zetten
-[10:16:22] [Server thread/INFO]: <MrJohnGotti> we zien wel in de toekomst e
-[10:16:43] [Server thread/INFO]: <_LordXara_> ola pierre mooie tracks aant zetten hmmm
-[10:16:54] [Server thread/INFO]: <Phicurius> ja goe e xd
-[10:17:39] [Server thread/INFO]: <_LordXara_> hebt ge nog iets nodig?
-[10:17:53] [Server thread/INFO]: <Phicurius> track XD
-[10:18:18] [Server thread/INFO]: <_LordXara_> zal eens kijken anders moet ge gaan stelen bij tom heb hem gisteren 3 stacks gegeven & heeft er nog bijna niks mee gedaan :p
-[10:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
-[10:20:05] [Server thread/INFO]: MrJohnGotti lost connection: Disconnected
-[10:20:05] [Server thread/INFO]: MrJohnGotti left the game
-[10:22:35] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[10:22:35] [Server thread/INFO]: Phicurius left the game
-[10:23:43] [User Authenticator #53/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[10:23:43] [Server thread/INFO]: Phicurius[/78.22.64.44:60833] logged in with entity id 395467 at (-141.76479584400894, 32.0, 15.015344346316693)
-[10:23:43] [Server thread/INFO]: Phicurius joined the game
-[10:23:51] [Server thread/INFO]: <_LordXara_> geen discord?
-[10:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[10:25:18] [Server thread/INFO]: <Phicurius> nee kmoe stil zijn xd
-[10:25:40] [Server thread/INFO]: <_LordXara_> ah kk :)
-[10:25:44] [Server thread/INFO]: <_LordXara_> heb nog wat rails gevonden
-[10:26:11] [Server thread/INFO]: <_LordXara_> zijt ge een heen en terug track aan het maken?
-[10:26:26] [Server thread/INFO]: <_LordXara_> of ene naar mij en een andere nr de hub?
-[10:26:46] [Server thread/INFO]: <Phicurius> idd een naar u en 1 naar hub
-[10:27:03] [Server thread/INFO]: <Phicurius> en kheb ook mn eige minecarts al gemaakt
-[10:27:13] [Server thread/INFO]: <Phicurius> kben nu bij tom om tracks te zoeken
-[10:27:27] [Server thread/INFO]: <Phicurius> ge spawnt wel ni bij zijn huis
-[10:27:30] [Server thread/INFO]: <_LordXara_> xD ik heb nog 1 stack gwne tracks & 15 golden tracks :)
-[10:27:53] [Server thread/INFO]: <_LordXara_> wat bedoel je?
-[10:28:11] [Server thread/INFO]: <Phicurius> waar er spaties zijn in mijn tracks daar moet een golden
-[10:28:35] [Server thread/INFO]: <Phicurius> awel as ge van de nether naar tom gaat spawnt ge ni bij zijn huis
-[10:28:49] [Server thread/INFO]: <_LordXara_> wut? normaal wel? vlak buitern zijn huis?
-[10:30:17] [Server thread/INFO]: <Phicurius> tom heeft geen tracks
-[10:30:24] [Server thread/INFO]: <_LordXara_> mss is hij ermee uitgelogd?
-[10:30:42] [Server thread/INFO]: <Phicurius> en nee ge komt in een bos in de buurt van zijn huis terecht
-[10:31:01] [Server thread/INFO]: <_LordXara_> wut? zijn portal is dan wss kapot gegaan...
-[10:31:13] [Server thread/INFO]: <Phicurius> nee ik ben er net door teruggegaan
-[10:31:17] [Server thread/INFO]: <_LordXara_> wtf
-[10:31:19] [Server thread/INFO]: <_LordXara_> raar
-[10:32:51] [Server thread/INFO]: <_LordXara_> where u go?
-[10:32:56] [Server thread/INFO]: <_LordXara_> heb tracks bij mij ze
-[10:33:09] [Server thread/INFO]: <Phicurius> u tracks verleggen xd you'll see
-[10:33:11] [Server thread/INFO]: <_LordXara_> hebt gy nog redstone torch btw?
-[10:33:22] [Server thread/INFO]: <Phicurius> ik kan da make thuis ja
-[10:35:09] [Server thread/INFO]: <_LordXara_> btw als ge valt van tracks in u minecart op andere tracks gaat ge gwn verderrijden dus ge moet geen track maken van u helemaal nr mij ge kunt deel van mijn tracks gwn hergebruiken
-[10:39:07] [Server thread/INFO]: <_LordXara_> als ik iets moet doen moet je het maar zeggen eh
-[10:40:46] [Server thread/INFO]: <Phicurius> kun de die trappen ier al es wegkappen?
-[10:41:15] [Server thread/INFO]: <_LordXara_> kk omw
-[10:42:25] [Server thread/INFO]: _LordXara_ tried to swim in lava
-[10:42:31] [Server thread/INFO]: <_LordXara_> FUCK
-[10:42:38] [Server thread/INFO]: <_LordXara_> DAAR GAAT ALLES
-[10:42:39] [Server thread/INFO]: <_LordXara_> FFS
-[10:42:50] [Server thread/INFO]: <_LordXara_> FUCK DIE FUCKING LAG
-[10:42:57] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[10:42:57] [Server thread/INFO]: Phicurius left the game
-[10:44:31] [Server thread/WARN]: _LordXara_ moved too quickly! -0.9072053430121798,7.5,6.774689100963101
-[11:18:30] [User Authenticator #54/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[11:18:30] [Server thread/INFO]: Phicurius[/78.22.64.44:61340] logged in with entity id 407559 at (-140.9368706603885, 56.0, 71.40942338623236)
-[11:18:30] [Server thread/INFO]: Phicurius joined the game
-[11:24:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[11:25:57] [Server thread/INFO]: Phicurius tried to swim in lava to escape Ghast
-[11:26:01] [Server thread/INFO]: <_LordXara_> f
-[11:26:24] [Server thread/INFO]: <Phicurius> die stomme vuurspuwende geesten e xs
-[11:26:31] [Server thread/INFO]: <_LordXara_> nja kweet
-[11:26:44] [Server thread/INFO]: <_LordXara_> wil al lang een dak & muren maken in nether maar heb geen steen
-[11:26:57] [Server thread/INFO]: <_LordXara_> gezien ik alles kwijt ben geraakt ben ik nu aan het minen dus zal alles opsparen ^^
-[11:27:29] [Server thread/INFO]: <Phicurius> aja kzal daar es aan beginne xd
-[11:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[11:39:09] [Server thread/INFO]: <Phicurius> zzz
-[11:39:15] [Server thread/INFO]: _LordXara_ was impaled by Drowned
-[11:39:23] [Server thread/INFO]: <_LordXara_> welp
-[11:39:27] [Server thread/INFO]: <Phicurius> f
-[11:41:35] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[11:41:35] [Server thread/INFO]: Phicurius left the game
-[11:44:54] [User Authenticator #55/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[11:44:54] [Server thread/INFO]: Phicurius[/78.22.64.44:61549] logged in with entity id 418874 at (-196.27753229071882, 32.0, 33.8674462367526)
-[11:44:54] [Server thread/INFO]: Phicurius joined the game
-[11:46:20] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[11:46:20] [Server thread/INFO]: Phicurius left the game
-[11:47:30] [User Authenticator #56/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[11:47:30] [Server thread/INFO]: Phicurius[/78.22.64.44:61576] logged in with entity id 419484 at (-151.82989597789623, 32.0, 31.383186213321807)
-[11:47:30] [Server thread/INFO]: Phicurius joined the game
-[11:50:41] [Server thread/INFO]: <_LordXara_> zzz
-[11:50:54] [Server thread/INFO]: <Phicurius> ik ben in the nether maakt da uit?
-[11:51:01] [Server thread/INFO]: <_LordXara_> nope tis al dag :)
-[11:57:31] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
-[11:57:31] [Server thread/INFO]: _LordXara_ left the game
-[12:21:45] [User Authenticator #57/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[12:21:45] [Server thread/INFO]: _LordXara_[/213.118.25.89:55202] logged in with entity id 426513 at (-1146.8967786852434, 63.0, 429.876925780754)
-[12:21:45] [Server thread/INFO]: _LordXara_ joined the game
-[12:21:55] [Server thread/INFO]: <Phicurius> a look who's back
-[12:21:59] [Server thread/INFO]: <_LordXara_> ^^
-[12:22:22] [Server thread/INFO]: <Phicurius> kheb al wa gedaan ma kheb te weinig kobblestone dus kben wa aant mine nu
-[12:22:39] [Server thread/INFO]: <_LordXara_> heb ook nog een paar stacks ondertussen
-[12:24:00] [Server thread/INFO]: <Phicurius> en wa was je aant doen me die tracks da van mij naar u zoude gaan?
-[12:24:35] [Server thread/INFO]: <_LordXara_> dan konk je gwn van u tracks op de mijne vallen & moest ge geen nieuwe baan maken voor da laatste stukje :)
-[12:25:18] [Server thread/INFO]: <Phicurius> ah kga da gwn doen das gemakkelijker xd
-[12:25:24] [Server thread/INFO]: <_LordXara_> ok
-[12:39:55] [User Authenticator #58/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[12:39:55] [Server thread/INFO]: Chlyster[/141.134.253.168:57506] logged in with entity id 432426 at (-10.755352797484967, 32.0, -25.585203804103667)
-[12:39:55] [Server thread/INFO]: Chlyster joined the game
-[12:44:11] [Server thread/INFO]: <_LordXara_> omg wtf unpowered rails?
-[12:44:20] [Server thread/INFO]: <_LordXara_> paar redstone torches vergeten zetten?
-[12:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
-[12:44:37] [Server thread/INFO]: <Phicurius> wat?
-[12:44:48] [Server thread/INFO]: <_LordXara_> er zijn een paar rails op de track die geen power hebben
-[12:45:00] [Server thread/INFO]: <_LordXara_> omg en een paar plekken waar gwn geen rails zijn xD
-[12:45:14] [Server thread/INFO]: <Phicurius> ja omdak da nog ni had
-[12:45:28] [Server thread/INFO]: <Phicurius> kben aant mine vr die resourse ook xd
-[12:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
-[12:53:48] [Server thread/INFO]: <Phicurius> u track is toch in orde?
-[12:53:55] [Server thread/INFO]: <_LordXara_> nope
-[12:54:00] [Server thread/INFO]: <_LordXara_> allee daarnet toch niet
-[12:54:04] [Server thread/INFO]: <Phicurius> kheb nu net 1 red torch moete bijzette
-[12:54:17] [Server thread/INFO]: <_LordXara_> ok zal checken
-[12:54:42] [Server thread/WARN]: _LordXara_ moved too quickly! 3.872147517824942E-5,-0.07840000152587834,-10.200177021298003
-[12:54:42] [Server thread/WARN]: Chlyster moved too quickly! -0.27790396127459616,0.0,-10.239351851916894
-[12:54:42] [Server thread/WARN]: Phicurius moved too quickly! -0.1080371328099261,0.0,10.099324565039712
-[12:55:19] [Server thread/INFO]: <Phicurius> fok zo'n geest
-[12:55:32] [Server thread/INFO]: <Phicurius> nu kant zijn da de tracks kapot zijn wacht
-[12:56:51] [Server thread/INFO]: <_LordXara_> ja op de hoek was er nog een deel ma heb gwn een track van de andere kant gepakt xD
-[12:57:31] [Server thread/INFO]: <Phicurius> ja ik heb er ook nog 1 powered track moete legge das waar
-[13:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[13:04:42] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[13:04:42] [Server thread/INFO]: Phicurius left the game
-[13:05:38] [User Authenticator #59/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[13:05:38] [Server thread/INFO]: Phicurius[/78.22.64.44:62157] logged in with entity id 441674 at (-247.60882750379986, 32.0, 33.627418710673815)
-[13:05:38] [Server thread/INFO]: Phicurius joined the game
-[13:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[13:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[13:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[13:22:25] [Server thread/INFO]: <_LordXara_> y u no make diamond armor pierre?
-[13:22:36] [Server thread/INFO]: <Chlyster> or diamond tools ?
-[13:23:00] [Server thread/INFO]: <Phicurius> zit te weer in mn huis rond te snuffele xd
-[13:23:09] [Server thread/INFO]: <Phicurius> en ik heb diamond pickaxe
-[13:23:27] [Server thread/INFO]: <Phicurius> vr armor heb ik niet genoeg
-[13:23:50] [Server thread/INFO]: <Chlyster> ge kunt toch gwn een chestplate en pants maken ?
-[13:24:58] [Server thread/INFO]: <Phicurius> oke ask ier gedaan heb me mine gaak da doen
-[13:25:50] [User Authenticator #60/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[13:25:50] [Server thread/INFO]: Zothuis[/84.194.201.40:51012] logged in with entity id 449817 at (335.299999974668, 63.0000002, 1683.299999974668)
-[13:25:50] [Server thread/INFO]: Zothuis joined the game
-[13:26:01] [Server thread/INFO]: <_LordXara_> OMG PIERRE
-[13:26:11] [Server thread/INFO]: <_LordXara_> ge hebt tom ingehaald que deaths :o
-[13:27:04] [Server thread/INFO]: <Phicurius> ja toen ik vandaag speelde was het 3 keer da ik door een netherportal ging en da er aan de andere kant ineens een creeper of ander mob stond
-[13:27:13] [Server thread/INFO]: <Zothuis> rip :p
-[13:29:51] [Server thread/WARN]: _LordXara_ moved too quickly! 1.7730882888049564,-1.127890238205481,-10.070109144903881
-[13:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
-[13:33:30] [Server thread/INFO]: <_LordXara_> zzzz
-[13:33:40] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[13:33:40] [Server thread/INFO]: Chlyster left the game
-[13:33:41] [Server thread/INFO]: Zothuis lost connection: Disconnected
-[13:33:41] [Server thread/INFO]: Zothuis left the game
-[13:33:48] [Server thread/INFO]: <Phicurius> zzz
-[13:33:55] [User Authenticator #61/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[13:33:55] [Server thread/INFO]: Zothuis[/84.194.201.40:51037] logged in with entity id 454471 at (340.49735318880215, 68.0, 1674.9146400472766)
-[13:33:55] [Server thread/INFO]: Zothuis joined the game
-[13:34:01] [User Authenticator #62/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[13:34:01] [Server thread/INFO]: Chlyster[/141.134.253.168:58018] logged in with entity id 454888 at (-1146.3148369308867, 63.0, 430.04238744062326)
-[13:34:01] [Server thread/INFO]: Chlyster joined the game
-[13:34:20] [Server thread/INFO]: Phicurius has made the advancement [Cover Me With Diamonds]
-[13:34:23] [Server thread/INFO]: <_LordXara_> gg
-[13:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
-[13:45:11] [Server thread/INFO]: <_LordXara_> zzzz
-[13:45:17] [Server thread/INFO]: <Zothuis> zzz
-[13:45:20] [Server thread/INFO]: <Phicurius> zzz
-[13:48:58] [Server thread/INFO]: <_LordXara_> pieter$
-[13:49:00] [Server thread/INFO]: <_LordXara_> euhm
-[13:49:07] [Server thread/INFO]: <_LordXara_> heb je armor gemaakt van je diamonds?
-[13:49:08] [Server thread/INFO]: <Phicurius> zeg es
-[13:49:11] [Server thread/INFO]: <_LordXara_> en geen chestplate?
-[13:49:25] [Server thread/INFO]: <Phicurius> i know shht mistake
-[13:49:31] [Server thread/INFO]: <_LordXara_> xDD
-[13:49:56] [Server thread/WARN]: _LordXara_ moved too quickly! 8.478638482122733,-3.6973806763393497,4.061198550636959
-[13:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3361ms or 67 ticks behind
-[13:58:12] [Server thread/INFO]: <Phicurius> zzz
-[13:58:28] [Server thread/INFO]: Zothuis lost connection: Disconnected
-[13:58:28] [Server thread/INFO]: Zothuis left the game
-[13:58:36] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[13:58:36] [Server thread/INFO]: Chlyster left the game
-[13:58:57] [User Authenticator #63/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[13:58:57] [Server thread/INFO]: Zothuis[/84.194.201.40:51085] logged in with entity id 469491 at (334.94459796945614, 75.0, 1685.1590311482448)
-[13:58:57] [Server thread/INFO]: Zothuis joined the game
-[13:59:05] [User Authenticator #64/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[13:59:05] [Server thread/INFO]: Chlyster[/141.134.253.168:58464] logged in with entity id 469879 at (-1146.197231215401, 63.0, 429.76800050345446)
-[13:59:05] [Server thread/INFO]: Chlyster joined the game
-[13:59:59] [Server thread/WARN]: Phicurius moved too quickly! 10.024642262718999,0.0,-0.6522511223048966
-[13:59:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
-[14:01:09] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[14:01:09] [Server thread/INFO]: Chlyster left the game
-[14:02:05] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
-[14:02:05] [Server thread/INFO]: _LordXara_ left the game
-[14:04:21] [User Authenticator #65/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[14:04:21] [Server thread/INFO]: _LordXara_[/213.118.25.89:55569] logged in with entity id 472351 at (-1178.4139713940403, 63.0, 576.2414633134532)
-[14:04:21] [Server thread/INFO]: _LordXara_ joined the game
-[14:05:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
-[14:05:12] [Server thread/INFO]: Phicurius walked into fire whilst fighting Ghast
-[14:05:16] [Server thread/INFO]: <Zothuis> f
-[14:05:18] [Server thread/INFO]: <_LordXara_> RIP
-[14:05:23] [Server thread/INFO]: <_LordXara_> armor niet geholpen? xD
-[14:06:12] [Server thread/INFO]: <Phicurius> ik heb die hele tunnel gebouwd dan is die geest opt einde aant wachte en vuurballe recht naar mij ant schiete
-[14:06:28] [User Authenticator #66/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[14:06:28] [Server thread/INFO]: Chlyster[/141.134.253.168:58861] logged in with entity id 474390 at (-1146.18927851191, 63.0, 429.610613569499)
-[14:06:28] [Server thread/INFO]: Chlyster joined the game
-[14:09:34] [Server thread/INFO]: <_LordXara_> zzz
-[14:09:38] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[14:09:38] [Server thread/INFO]: Chlyster left the game
-[14:09:38] [Server thread/INFO]: <Zothuis> zzz
-[14:09:48] [Server thread/INFO]: Zothuis lost connection: Disconnected
-[14:09:48] [Server thread/INFO]: Zothuis left the game
-[14:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
-[14:11:13] [User Authenticator #67/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[14:11:13] [Server thread/INFO]: Chlyster[/141.134.253.168:58919] logged in with entity id 477168 at (-1146.8424567392856, 63.0, 429.543850914708)
-[14:11:13] [Server thread/INFO]: Chlyster joined the game
-[14:11:26] [User Authenticator #68/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[14:11:26] [Server thread/INFO]: Zothuis[/84.194.201.40:51269] logged in with entity id 477194 at (335.299999974668, 63.0000002, 1683.299999974668)
-[14:11:26] [Server thread/INFO]: Zothuis joined the game
-[14:14:41] [Server thread/INFO]: _LordXara_ has made the advancement [Cover Me With Diamonds]
-[14:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
-[14:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[14:20:29] [Server thread/INFO]: <Zothuis> My god troll :p
-[14:20:41] [Server thread/INFO]: <Phicurius> ?
-[14:20:48] [Server thread/INFO]: <Zothuis> Sorry reactie op discord
-[14:20:52] [Server thread/INFO]: <Zothuis> Kan niet praten maar wel luisteren :)
-[14:21:18] [Server thread/INFO]: <Zothuis> Er is een creeper ontploft naast mijn portal... liefst opvullen in de toekomst :(
-[14:21:46] [Server thread/INFO]: <Zothuis> Dan ben ik blind
-[14:21:49] [Server thread/INFO]: <Zothuis> nvm
-[14:22:21] [Server thread/INFO]: <Zothuis> WTF wrm staat er een nether portal 20m van mijn huis?
-[14:22:23] [Server thread/INFO]: <Zothuis> Een andere
-[14:22:28] [Server thread/INFO]: <Zothuis> In een boom
-[14:22:30] [Server thread/INFO]: <Zothuis> ???
-[14:22:34] [Server thread/INFO]: <Zothuis> How, why?
-[14:23:17] [Server thread/INFO]: <Zothuis> Die portal is zelfde als mijn andere portal dafuq
-[14:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
-[14:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[14:38:20] [Server thread/INFO]: <Zothuis> vanavond kan ik weer praten :D
-[14:38:41] [Server thread/INFO]: <_LordXara_> jammer
-[14:38:52] [Server thread/INFO]: <Zothuis> >.<
-[14:39:01] [Server thread/INFO]: <_LordXara_> :3
-[14:39:20] [Server thread/INFO]: <Phicurius> iemand cobblestone over?
-[14:39:26] [Server thread/INFO]: <Zothuis> nope sorry
-[14:39:27] [Server thread/INFO]: <_LordXara_> ja ze
-[14:39:33] [Server thread/INFO]: <_LordXara_> onder u voeten gwn opgraven
-[14:39:54] [Server thread/INFO]: <_LordXara_> ja heb er nog redelijk wat in m'n huis
-[14:39:55] [Server thread/INFO]: <Phicurius> tis al de 4e keer dak meer moe opgrave xd
-[14:40:06] [Server thread/INFO]: <Chlyster> Ge moet gwn stripminen
-[14:40:08] [Server thread/INFO]: <_LordXara_> kom maar halen
-[14:40:12] [Server thread/INFO]: <Zothuis> Ik wil iron voor de rails :o
-[14:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[14:40:25] [Server thread/INFO]: <Zothuis> GVD als ik terug kom van de nether kom ik uit het andere portaal rip
-[14:40:25] [Server thread/INFO]: <_LordXara_> ook stripminen eh
-[14:40:49] [Server thread/INFO]: <Phicurius> vernietig anders het foute portaal zou da ni werke?
-[14:40:59] [Server thread/INFO]: <Zothuis> Zou ik durven?
-[14:41:07] [Server thread/INFO]: <_LordXara_> gy?
-[14:41:08] [Server thread/INFO]: <_LordXara_> nee
-[14:41:37] [Server thread/INFO]: <_LordXara_> int ergste geval spawnt er gwn een nieuwe portal
-[14:41:43] [Server thread/INFO]: Zothuis has made the advancement [Ice Bucket Challenge]
-[14:41:44] [Server thread/INFO]: <_LordXara_> vlak naast diegene da ge net kapot maakt
-[14:41:57] [Server thread/INFO]: <_LordXara_> gg
-[14:42:01] [Server thread/INFO]: <Chlyster> gg
-[14:42:04] [Server thread/INFO]: <Phicurius> gg
-[14:42:05] [Server thread/INFO]: <Zothuis> ty
-[14:42:13] [Server thread/INFO]: <_LordXara_> ur whalecum
-[14:44:22] [Server thread/INFO]: Zothuis was blown up by Creeper
-[14:44:26] [Server thread/INFO]: <Chlyster> c
-[14:44:26] [Server thread/INFO]: <_LordXara_> f
-[14:44:26] [Server thread/INFO]: <Phicurius> f
-[14:44:27] [Server thread/INFO]: <Chlyster> f
-[14:44:34] [Server thread/INFO]: <Zothuis> FUUUUUUUUUUUUU
-[14:44:42] [Server thread/INFO]: <Zothuis> 28 levels
-[14:44:48] [Server thread/INFO]: <_LordXara_> RIP
-[14:45:00] [Server thread/INFO]: <Zothuis> Ok nice
-[14:45:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[14:47:22] [Server thread/INFO]: <Chlyster> pierre, u rails zijn wel kapot aan de helft
-[14:47:46] [Server thread/INFO]: <Phicurius> what did you do?
-[14:47:51] [Server thread/INFO]: <Chlyster> ikke niets
-[14:47:54] [Server thread/INFO]: <Chlyster> maar het is kapot
-[14:48:34] [Server thread/INFO]: <Phicurius> tom geef mijn rails terug ^^
-[14:48:45] [Server thread/INFO]: <Zothuis> huh?
-[14:49:13] [Server thread/INFO]: <_LordXara_> #drama
-[14:49:31] [Server thread/INFO]: <Zothuis> Heb niets gedaan :(
-[14:49:39] [Server thread/INFO]: <Phicurius> rails gaan ni vanzelf kapot ik heb ze net allemaal gemaakt en gy wil u rails afwerken dusja ^^
-[14:49:56] [Server thread/INFO]: <Zothuis> Was dat geen mob?
-[14:50:11] [Server thread/INFO]: <_LordXara_> die gasts blazen rails op eh
-[14:50:13] [Server thread/INFO]: <Zothuis> Ik ging mijn rails nu doen maar heb de hele tijd zitten minen
-[14:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
-[14:50:40] [Server thread/INFO]: <Phicurius> i know kben em gwn wa op stang aant jage alty leuk ^^
-[14:50:54] [Server thread/INFO]: <Zothuis> Je deed me schrikken, ik steel zelden :p
-[14:51:05] [Server thread/INFO]: <_LordXara_> 'zelden'
-[14:51:35] [Server thread/INFO]: * _LordXara_ grabs popcorn
-[14:51:59] [Server thread/INFO]: <Zothuis> gz
-[14:53:05] [Server thread/INFO]: _LordXara_ lost connection: Timed out
-[14:53:05] [Server thread/INFO]: _LordXara_ left the game
-[14:53:05] [Server thread/WARN]: handleDisconnection() called twice
-[14:53:47] [User Authenticator #69/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[14:53:47] [Server thread/INFO]: _LordXara_[/213.118.25.89:55877] logged in with entity id 500982 at (-1147.3777163406485, 63.0, 422.39118013259906)
-[14:53:47] [Server thread/INFO]: _LordXara_ joined the game
-[14:55:23] [Server thread/WARN]: Zothuis moved too quickly! -0.9668323241490437,-1.1661092609382138,-10.108687377656757
-[14:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
-[14:55:30] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[14:55:30] [Server thread/INFO]: Chlyster left the game
-[14:55:31] [Server thread/INFO]: <Zothuis> mooie hub
-[14:55:51] [Server thread/INFO]: <Zothuis> wie zijn portaal is dat in de hub?
-[14:56:00] [Server thread/INFO]: <_LordXara_> chiel
-[14:56:07] [Server thread/INFO]: <Zothuis> Staat die niet wat verder op?
-[14:56:17] [Server thread/INFO]: <_LordXara_> verplaatst eh
-[14:56:23] [Server thread/INFO]: <Zothuis> Ah k
-[14:56:42] [Server thread/INFO]: <Zothuis> En gy twee richtingen, require?
-[14:56:45] [Server thread/INFO]: <Zothuis> required?*
-[14:56:52] [Server thread/INFO]: <_LordXara_> das pieter
-[14:56:58] [Server thread/INFO]: <Zothuis> Ah nice :p
-[14:57:22] [Server thread/INFO]: <Zothuis> KUT die tracks zijn kapot
-[15:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
-[15:05:17] [Server thread/INFO]: <Phicurius> zzz
-[15:05:22] [Server thread/INFO]: <_LordXara_> zzz
-[15:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
-[15:08:11] [User Authenticator #70/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
-[15:08:11] [Server thread/INFO]: Alkram[/141.134.43.49:50238] logged in with entity id 507137 at (-787.0301510408945, 162.0, 1380.0272675154545)
-[15:08:11] [Server thread/INFO]: Alkram joined the game
-[15:08:16] [Server thread/INFO]: <Zothuis> <b
-[15:08:27] [Server thread/INFO]: <Zothuis> wb*
-[15:08:34] [Server thread/INFO]: <Alkram> Thx <3
-[15:08:40] [Server thread/INFO]: <_LordXara_> o7
-[15:08:46] [Server thread/INFO]: <_LordXara_> o/
-[15:08:54] [Server thread/INFO]: <Zothuis> ur whalecum
-[15:08:54] [Server thread/INFO]: <Alkram> fu
-[15:10:30] [Server thread/INFO]: <Zothuis> rails: boost int begin, dan elke 30 blocks ongeveer
-[15:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
-[15:10:48] [Server thread/INFO]: <Zothuis> https://minecraft.gamepedia.com/Tutorials/Minecarts#Momentum
-[15:11:15] [Server thread/INFO]: <Zothuis> Lees het overal op reddit maar kzal het wel random leggen want tellen duurt te lang :p
-[15:11:17] [Server thread/INFO]: <Phicurius> ma elke 30 sec wandelen,sprinten,rijden?
-[15:11:34] [Server thread/INFO]: Alkram lost connection: Disconnected
-[15:11:34] [Server thread/INFO]: Alkram left the game
-[15:11:35] [Server thread/INFO]: <Phicurius> nvm verkeerd geleze
-[15:12:16] [User Authenticator #71/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
-[15:12:16] [Server thread/INFO]: Alkram[/141.134.43.49:50454] logged in with entity id 509054 at (-803.315699570335, 67.0, 1376.4099576969775)
-[15:12:16] [Server thread/INFO]: Alkram joined the game
-[15:13:37] [Server thread/INFO]: <Zothuis> FUUUUUUUU
-[15:13:42] [Server thread/INFO]: <_LordXara_> ck
-[15:14:00] [Server thread/INFO]: <Zothuis> Ben uit mijn cart gestapt en door de grond geglitched en in een ravijn in de nether gevallen
-[15:14:20] [Server thread/INFO]: <Alkram> #TypicalTom
-[15:14:48] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[15:14:48] [Server thread/INFO]: Phicurius left the game
-[15:15:20] [Server thread/INFO]: <Zothuis> altijd als ie veel online is
-[15:15:33] [Server thread/WARN]: Zothuis moved too quickly! 10.09706646898185,0.0,0.20353512469802126
-[15:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
-[15:20:09] [Server thread/INFO]: Zothuis was shot by Skeleton
-[15:20:11] [Server thread/INFO]: <_LordXara_> f
-[15:20:18] [Server thread/INFO]: <Alkram> f
-[15:21:48] [Server thread/INFO]: <_LordXara_> zzz
-[15:21:53] [Server thread/INFO]: <Zothuis> zzz
-[15:22:06] [Server thread/INFO]: <Zothuis> eikel
-[15:22:09] [Server thread/INFO]: <_LordXara_> yup
-[15:22:22] [Server thread/INFO]: <Zothuis> waste
-[15:22:22] [Server thread/INFO]: <Zothuis> of
-[15:22:24] [Server thread/INFO]: <Zothuis> time
-[15:22:28] [Server thread/INFO]: <_LordXara_> waste
-[15:22:29] [Server thread/INFO]: <_LordXara_> of
-[15:22:30] [Server thread/INFO]: <_LordXara_> lyf
-[15:24:27] [Server thread/INFO]: <Zothuis> Ideaal want ik ben vanavond ook laat nog online :)
-[15:24:40] [Server thread/INFO]: <Zothuis> true
-[15:28:24] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
-[15:28:24] [Server thread/INFO]: _LordXara_ left the game
-[15:30:25] [User Authenticator #72/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[15:30:25] [Server thread/INFO]: _LordXara_[/213.118.25.89:56120] logged in with entity id 518114 at (-767.0606503967882, 78.0, 1357.6545875313082)
-[15:30:25] [Server thread/INFO]: _LordXara_ joined the game
-[15:30:34] [Server thread/INFO]: <Zothuis> wb
-[15:34:02] [User Authenticator #73/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[15:34:02] [Server thread/INFO]: Phicurius[/78.22.64.44:63342] logged in with entity id 519297 at (-1880.8250390635963, 70.0, 272.27604598578233)
-[15:34:02] [Server thread/INFO]: Phicurius joined the game
-[15:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
-[15:36:16] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
-[15:36:16] [Server thread/INFO]: _LordXara_ left the game
-[15:36:17] [User Authenticator #74/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[15:36:17] [Server thread/INFO]: _LordXara_[/213.118.25.89:56151] logged in with entity id 521098 at (-786.4798933556013, 68.0, 1372.8438987085467)
-[15:36:17] [Server thread/INFO]: _LordXara_ joined the game
-[15:36:46] [Server thread/INFO]: <Zothuis> ik ben eerst even eten, tot straks
-[15:36:55] [Server thread/INFO]: Zothuis lost connection: Disconnected
-[15:36:55] [Server thread/INFO]: Zothuis left the game
-[15:40:18] [Server thread/INFO]: <Phicurius> zzz
-[15:40:37] [Server thread/WARN]: _LordXara_ moved too quickly! -2.184724356288143,-11.213403912871314,-0.6001107189317736
-[15:40:51] [Server thread/INFO]: Alkram lost connection: Disconnected
-[15:40:51] [Server thread/INFO]: Alkram left the game
-[15:41:11] [User Authenticator #75/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
-[15:41:11] [Server thread/INFO]: Alkram[/141.134.43.49:50765] logged in with entity id 522663 at (-711.0467415843135, 19.0, 1328.9549728834224)
-[15:41:11] [Server thread/INFO]: Alkram joined the game
-[15:41:16] [Server thread/INFO]: <Phicurius> ja
-[15:41:49] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
-[15:41:49] [Server thread/INFO]: _LordXara_ left the game
-[15:44:10] [Server thread/INFO]: Alkram lost connection: Disconnected
-[15:44:10] [Server thread/INFO]: Alkram left the game
-[15:57:34] [User Authenticator #76/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
-[15:57:35] [Server thread/INFO]: Alkram[/141.134.43.49:50950] logged in with entity id 525893 at (-688.9334290212068, 13.0, 1345.7701223002214)
-[15:57:35] [Server thread/INFO]: Alkram joined the game
-[16:04:39] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[16:04:39] [Server thread/INFO]: Phicurius left the game
-[16:11:30] [Server thread/WARN]: Fetching packet for removed entity atx['Bone'/529215, l='world', x=-681.36, y=35.00, z=1321.10]
-[16:11:30] [Server thread/WARN]: Fetching packet for removed entity atx['Rotten Flesh'/529216, l='world', x=-680.39, y=35.00, z=1321.04]
-[16:22:03] [User Authenticator #77/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[16:22:03] [Server thread/INFO]: Zothuis[/84.194.201.40:52283] logged in with entity id 531134 at (338.5505439582625, 63.0, 1679.3347160665373)
-[16:22:03] [Server thread/INFO]: Zothuis joined the game
-[16:22:07] [Server thread/INFO]: <Zothuis> sup :D
-[16:22:18] [Server thread/INFO]: <Alkram> Hello
-[16:22:27] [Server thread/INFO]: <Zothuis> Kan niet praten momenteel, sorry
-[16:22:34] [Server thread/INFO]: <Alkram> np
-[16:37:44] [Server thread/INFO]: <Alkram> rip
-[16:37:49] [Server thread/INFO]: <Zothuis> ?
-[16:37:58] [Server thread/INFO]: <Alkram> Da was mijn hond :(
-[16:39:08] [Server thread/INFO]: <Zothuis> Innige deelneming :('
-[16:43:18] [Server thread/INFO]: <Alkram> Kga gaan eten, tot sebiet
-[16:43:23] [Server thread/INFO]: <Zothuis> smakelijk!
-[16:43:25] [Server thread/INFO]: Alkram lost connection: Disconnected
-[16:43:25] [Server thread/INFO]: Alkram left the game
-[16:52:29] [Server thread/INFO]: Zothuis lost connection: Disconnected
-[16:52:29] [Server thread/INFO]: Zothuis left the game
-[16:53:23] [User Authenticator #78/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[16:53:23] [Server thread/INFO]: Zothuis[/84.194.201.40:52426] logged in with entity id 540703 at (358.0564698125052, 63.0, 1679.4340438597999)
-[16:53:23] [Server thread/INFO]: Zothuis joined the game
-[17:06:35] [User Authenticator #79/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[17:06:35] [Server thread/INFO]: _LordXara_[/213.118.25.89:56669] logged in with entity id 543198 at (-786.3000000119209, 68.0, 1362.699999988079)
-[17:06:35] [Server thread/INFO]: _LordXara_ joined the game
-[17:06:40] [Server thread/INFO]: <Zothuis> sup nigaaa
-[17:06:43] [Server thread/INFO]: <_LordXara_> sup
-[17:06:47] [Server thread/INFO]: <_LordXara_> nog altijd geen discord? xD
-[17:07:04] [Server thread/INFO]: <Zothuis> we gaan zo naar boven maar dan benk even weg tot 22u
-[17:07:12] [Server thread/INFO]: <_LordXara_> kk
-[17:07:15] [Server thread/INFO]: <Zothuis> beneden lekker fris dus keuze is snel gemaakt :o
-[17:07:44] [User Authenticator #80/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[17:07:44] [Server thread/INFO]: Chlyster[/141.134.253.168:61959] logged in with entity id 543581 at (-1157.1797261455085, 63.0, 427.8509927262967)
-[17:07:44] [Server thread/INFO]: Chlyster joined the game
-[17:10:37] [Server thread/WARN]: _LordXara_ moved too quickly! -0.4075566752176769,-1.044812420399019,10.15128971342105
-[17:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[17:23:02] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[17:23:02] [Server thread/INFO]: Chlyster left the game
-[17:25:39] [Server thread/WARN]: Zothuis moved too quickly! 10.41587700168759,1.1677966466332492,-0.5630970718759727
-[17:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
-[17:27:37] [Server thread/INFO]: _LordXara_ has made the advancement [A Terrible Fortress]
-[17:27:44] [Server thread/INFO]: _LordXara_ has made the advancement [Into Fire]
-[17:27:51] [Server thread/INFO]: Zothuis has made the advancement [A Seedy Place]
+[09:07:57] [User Authenticator #217/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[09:07:57] [Server thread/INFO]: Phicurius[/78.22.64.44:63264] logged in with entity id 1146823 at (-1880.4518070342276, 63.0, 275.115538419437)
+[09:07:57] [Server thread/INFO]: Phicurius joined the game
+[09:50:17] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[09:50:17] [Server thread/INFO]: Phicurius left the game
+[09:53:22] [User Authenticator #218/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[09:53:23] [Server thread/INFO]: Phicurius[/78.22.64.44:64105] logged in with entity id 1152533 at (-1829.4637889485257, 69.0, 325.46236950701575)
+[09:53:23] [Server thread/INFO]: Phicurius joined the game
+[10:36:26] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[10:36:26] [Server thread/INFO]: Phicurius left the game
+[11:18:58] [User Authenticator #219/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[11:18:58] [Server thread/INFO]: Phicurius[/78.22.64.44:65029] logged in with entity id 1158178 at (-1841.1802725232287, 61.0, 325.5966103223367)
+[11:18:58] [Server thread/INFO]: Phicurius joined the game
+[11:33:30] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[11:33:30] [Server thread/INFO]: Phicurius left the game
+[11:41:02] [User Authenticator #220/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[11:41:02] [Server thread/INFO]: Phicurius[/78.22.64.44:65320] logged in with entity id 1160514 at (-1867.0407481310638, 63.0, 269.6839784346112)
+[11:41:02] [Server thread/INFO]: Phicurius joined the game
+[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 8.753941915254927,0.0,-5.614722420070791
+[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 9.090693988566045,0.0,-5.830585964850172
+[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 9.427447537870535,0.0,-6.046447413076407
+[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 9.764202415569116,0.0,-6.262306974404908
+[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 10.100958488822243,0.0,-6.478164837525469
+[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 10.437715638074565,0.0,-6.694021172258942
+[12:19:24] [Server thread/WARN]: Fetching packet for removed entity atx['Pumpkin'/1174804, l='world', x=-1884.87, y=63.71, z=333.82]
+[12:39:55] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[12:39:55] [Server thread/INFO]: Phicurius left the game
+[12:42:27] [User Authenticator #221/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[12:42:27] [Server thread/INFO]: Phicurius[/78.22.64.44:49495] logged in with entity id 1177236 at (-1880.316841295286, 63.0, 275.80521264380576)
+[12:42:27] [Server thread/INFO]: Phicurius joined the game
+[13:27:49] [User Authenticator #222/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
+[13:27:50] [Server thread/INFO]: Alkram[/141.134.43.49:50070] logged in with entity id 1183048 at (-777.5439569347557, 62.0, 1363.8084584113801)
+[13:27:50] [Server thread/INFO]: Alkram joined the game
+[13:32:12] [Server thread/INFO]: Alkram lost connection: Disconnected
+[13:32:12] [Server thread/INFO]: Alkram left the game
+[14:30:30] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[14:30:30] [Server thread/INFO]: Phicurius left the game
+[14:46:44] [User Authenticator #223/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[14:46:44] [Server thread/INFO]: Phicurius[/78.22.64.44:50775] logged in with entity id 1189225 at (-50.349387745541854, 6.5, 77.1795742834111)
+[14:46:44] [Server thread/INFO]: Phicurius joined the game
+[15:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15:25:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1193703, l='world', x=-1937.43, y=63.00, z=280.78]
+[15:38:11] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[15:38:11] [Server thread/INFO]: Phicurius left the game
+[16:39:38] [User Authenticator #224/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
+[16:39:38] [Server thread/INFO]: Zothuis[/78.21.60.4:56515] logged in with entity id 1196187 at (-1876.7118551113415, 63.0, 268.5254775047971)
+[16:39:38] [Server thread/INFO]: Zothuis joined the game
+[16:40:31] [Server thread/INFO]: Zothuis lost connection: Disconnected
+[16:40:31] [Server thread/INFO]: Zothuis left the game
+[16:51:35] [User Authenticator #225/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[16:51:35] [Server thread/INFO]: Phicurius[/78.22.64.44:51726] logged in with entity id 1196986 at (-55.86604734016163, 6.5, 74.52992906383518)
+[16:51:35] [Server thread/INFO]: Phicurius joined the game
+[17:07:00] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[17:07:00] [Server thread/INFO]: Phicurius left the game
+[17:07:59] [User Authenticator #226/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[17:07:59] [Server thread/INFO]: Phicurius[/78.22.64.44:51894] logged in with entity id 1199124 at (-55.037606948700414, 70.0, 75.48233145007657)
+[17:07:59] [Server thread/INFO]: Phicurius joined the game
+[17:49:22] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[17:49:22] [Server thread/INFO]: Phicurius left the game
+[17:51:10] [User Authenticator #227/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[17:51:10] [Server thread/INFO]: Phicurius[/78.22.64.44:52214] logged in with entity id 1206570 at (-72.66927401394885, 11.0, 67.40183062387081)
+[17:51:10] [Server thread/INFO]: Phicurius joined the game
+[18:00:41] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[18:00:41] [Server thread/INFO]: Phicurius left the game
+[18:01:04] [User Authenticator #228/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[18:01:04] [Server thread/INFO]: Phicurius[/78.22.64.44:52313] logged in with entity id 1207931 at (-65.74281028628857, 11.0, 72.79411883042076)
+[18:01:04] [Server thread/INFO]: Phicurius joined the game
+[18:01:12] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[18:01:12] [Server thread/INFO]: Phicurius left the game
+[18:01:31] [User Authenticator #229/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[18:01:31] [Server thread/INFO]: Phicurius[/78.22.64.44:52322] logged in with entity id 1207956 at (-65.74281028628857, 11.0, 72.79411883042076)
+[18:01:31] [Server thread/INFO]: Phicurius joined the game
+[18:12:43] [Server thread/WARN]: Phicurius moved too quickly! 10.046740671842144,0.0,-1.4903685570855032
+[18:34:06] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[18:34:06] [Server thread/INFO]: Phicurius left the game
+[18:34:13] [User Authenticator #230/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[18:34:13] [Server thread/INFO]: Phicurius[/78.22.64.44:52530] logged in with entity id 1213622 at (-49.17205671672743, 15.0, 75.76453932302054)
+[18:34:13] [Server thread/INFO]: Phicurius joined the game
+[19:27:32] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[19:27:32] [Server thread/INFO]: Phicurius left the game
+[19:33:32] [User Authenticator #231/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
+[19:33:32] [Server thread/INFO]: Phicurius[/78.22.64.44:53109] logged in with entity id 1222140 at (-1940.699999988079, 10.0, 18.517779409335077)
+[19:33:32] [Server thread/INFO]: Phicurius joined the game
+[20:30:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1227111, l='world', x=-1935.52, y=63.00, z=278.17]
+[20:50:18] [Server thread/INFO]: Phicurius lost connection: Disconnected
+[20:50:18] [Server thread/INFO]: Phicurius left the game
