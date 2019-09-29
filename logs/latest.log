@@ -1,86 +1,10 @@
-[09:07:57] [User Authenticator #217/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[09:07:57] [Server thread/INFO]: Phicurius[/78.22.64.44:63264] logged in with entity id 1146823 at (-1880.4518070342276, 63.0, 275.115538419437)
-[09:07:57] [Server thread/INFO]: Phicurius joined the game
-[09:50:17] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[09:50:17] [Server thread/INFO]: Phicurius left the game
-[09:53:22] [User Authenticator #218/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[09:53:23] [Server thread/INFO]: Phicurius[/78.22.64.44:64105] logged in with entity id 1152533 at (-1829.4637889485257, 69.0, 325.46236950701575)
-[09:53:23] [Server thread/INFO]: Phicurius joined the game
-[10:36:26] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[10:36:26] [Server thread/INFO]: Phicurius left the game
-[11:18:58] [User Authenticator #219/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[11:18:58] [Server thread/INFO]: Phicurius[/78.22.64.44:65029] logged in with entity id 1158178 at (-1841.1802725232287, 61.0, 325.5966103223367)
-[11:18:58] [Server thread/INFO]: Phicurius joined the game
-[11:33:30] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[11:33:30] [Server thread/INFO]: Phicurius left the game
-[11:41:02] [User Authenticator #220/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[11:41:02] [Server thread/INFO]: Phicurius[/78.22.64.44:65320] logged in with entity id 1160514 at (-1867.0407481310638, 63.0, 269.6839784346112)
-[11:41:02] [Server thread/INFO]: Phicurius joined the game
-[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 8.753941915254927,0.0,-5.614722420070791
-[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 9.090693988566045,0.0,-5.830585964850172
-[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 9.427447537870535,0.0,-6.046447413076407
-[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 9.764202415569116,0.0,-6.262306974404908
-[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 10.100958488822243,0.0,-6.478164837525469
-[11:52:40] [Server thread/WARN]: Boat (vehicle of Phicurius) moved too quickly! 10.437715638074565,0.0,-6.694021172258942
-[12:19:24] [Server thread/WARN]: Fetching packet for removed entity atx['Pumpkin'/1174804, l='world', x=-1884.87, y=63.71, z=333.82]
-[12:39:55] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[12:39:55] [Server thread/INFO]: Phicurius left the game
-[12:42:27] [User Authenticator #221/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[12:42:27] [Server thread/INFO]: Phicurius[/78.22.64.44:49495] logged in with entity id 1177236 at (-1880.316841295286, 63.0, 275.80521264380576)
-[12:42:27] [Server thread/INFO]: Phicurius joined the game
-[13:27:49] [User Authenticator #222/INFO]: UUID of player Alkram is 255fcaff-ae25-4e6d-b44b-2a330c1fbca9
-[13:27:50] [Server thread/INFO]: Alkram[/141.134.43.49:50070] logged in with entity id 1183048 at (-777.5439569347557, 62.0, 1363.8084584113801)
-[13:27:50] [Server thread/INFO]: Alkram joined the game
-[13:32:12] [Server thread/INFO]: Alkram lost connection: Disconnected
-[13:32:12] [Server thread/INFO]: Alkram left the game
-[14:30:30] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[14:30:30] [Server thread/INFO]: Phicurius left the game
-[14:46:44] [User Authenticator #223/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[14:46:44] [Server thread/INFO]: Phicurius[/78.22.64.44:50775] logged in with entity id 1189225 at (-50.349387745541854, 6.5, 77.1795742834111)
-[14:46:44] [Server thread/INFO]: Phicurius joined the game
-[15:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[15:25:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1193703, l='world', x=-1937.43, y=63.00, z=280.78]
-[15:38:11] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[15:38:11] [Server thread/INFO]: Phicurius left the game
-[16:39:38] [User Authenticator #224/INFO]: UUID of player Zothuis is 4069e35c-e1f2-40d7-ad67-54fd310302f0
-[16:39:38] [Server thread/INFO]: Zothuis[/78.21.60.4:56515] logged in with entity id 1196187 at (-1876.7118551113415, 63.0, 268.5254775047971)
-[16:39:38] [Server thread/INFO]: Zothuis joined the game
-[16:40:31] [Server thread/INFO]: Zothuis lost connection: Disconnected
-[16:40:31] [Server thread/INFO]: Zothuis left the game
-[16:51:35] [User Authenticator #225/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[16:51:35] [Server thread/INFO]: Phicurius[/78.22.64.44:51726] logged in with entity id 1196986 at (-55.86604734016163, 6.5, 74.52992906383518)
-[16:51:35] [Server thread/INFO]: Phicurius joined the game
-[17:07:00] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[17:07:00] [Server thread/INFO]: Phicurius left the game
-[17:07:59] [User Authenticator #226/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[17:07:59] [Server thread/INFO]: Phicurius[/78.22.64.44:51894] logged in with entity id 1199124 at (-55.037606948700414, 70.0, 75.48233145007657)
-[17:07:59] [Server thread/INFO]: Phicurius joined the game
-[17:49:22] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[17:49:22] [Server thread/INFO]: Phicurius left the game
-[17:51:10] [User Authenticator #227/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[17:51:10] [Server thread/INFO]: Phicurius[/78.22.64.44:52214] logged in with entity id 1206570 at (-72.66927401394885, 11.0, 67.40183062387081)
-[17:51:10] [Server thread/INFO]: Phicurius joined the game
-[18:00:41] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[18:00:41] [Server thread/INFO]: Phicurius left the game
-[18:01:04] [User Authenticator #228/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[18:01:04] [Server thread/INFO]: Phicurius[/78.22.64.44:52313] logged in with entity id 1207931 at (-65.74281028628857, 11.0, 72.79411883042076)
-[18:01:04] [Server thread/INFO]: Phicurius joined the game
-[18:01:12] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[18:01:12] [Server thread/INFO]: Phicurius left the game
-[18:01:31] [User Authenticator #229/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[18:01:31] [Server thread/INFO]: Phicurius[/78.22.64.44:52322] logged in with entity id 1207956 at (-65.74281028628857, 11.0, 72.79411883042076)
-[18:01:31] [Server thread/INFO]: Phicurius joined the game
-[18:12:43] [Server thread/WARN]: Phicurius moved too quickly! 10.046740671842144,0.0,-1.4903685570855032
-[18:34:06] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[18:34:06] [Server thread/INFO]: Phicurius left the game
-[18:34:13] [User Authenticator #230/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[18:34:13] [Server thread/INFO]: Phicurius[/78.22.64.44:52530] logged in with entity id 1213622 at (-49.17205671672743, 15.0, 75.76453932302054)
-[18:34:13] [Server thread/INFO]: Phicurius joined the game
-[19:27:32] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[19:27:32] [Server thread/INFO]: Phicurius left the game
-[19:33:32] [User Authenticator #231/INFO]: UUID of player Phicurius is ae386864-57b2-4702-9305-2bd8aca6a0a3
-[19:33:32] [Server thread/INFO]: Phicurius[/78.22.64.44:53109] logged in with entity id 1222140 at (-1940.699999988079, 10.0, 18.517779409335077)
-[19:33:32] [Server thread/INFO]: Phicurius joined the game
-[20:30:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1227111, l='world', x=-1935.52, y=63.00, z=278.17]
-[20:50:18] [Server thread/INFO]: Phicurius lost connection: Disconnected
-[20:50:18] [Server thread/INFO]: Phicurius left the game
+[10:48:22] [User Authenticator #266/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
+[10:48:22] [Server thread/INFO]: _LordXara_[/213.118.25.89:57102] logged in with entity id 1372700 at (-760.4144731118221, 77.0, 1370.9338858394926)
+[10:48:22] [Server thread/INFO]: _LordXara_ joined the game
+[10:52:41] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
+[10:52:41] [Server thread/INFO]: _LordXara_ left the game
+[18:23:37] [User Authenticator #267/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
+[18:23:37] [Server thread/INFO]: Chlyster[/141.134.253.168:53399] logged in with entity id 1374647 at (-72.03043340826233, 40.0, -138.97504383561167)
+[18:23:37] [Server thread/INFO]: Chlyster joined the game
+[18:29:30] [Server thread/INFO]: Chlyster lost connection: Disconnected
+[18:29:30] [Server thread/INFO]: Chlyster left the game
