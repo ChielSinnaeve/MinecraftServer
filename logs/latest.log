@@ -1,10 +1,13 @@
-[10:48:22] [User Authenticator #266/INFO]: UUID of player _LordXara_ is b45a8f5c-5d6e-425a-811b-ac82a4c9a5f2
-[10:48:22] [Server thread/INFO]: _LordXara_[/213.118.25.89:57102] logged in with entity id 1372700 at (-760.4144731118221, 77.0, 1370.9338858394926)
-[10:48:22] [Server thread/INFO]: _LordXara_ joined the game
-[10:52:41] [Server thread/INFO]: _LordXara_ lost connection: Disconnected
-[10:52:41] [Server thread/INFO]: _LordXara_ left the game
-[18:23:37] [User Authenticator #267/INFO]: UUID of player Chlyster is a94d8f79-107e-45f7-816a-150f1d1b53cb
-[18:23:37] [Server thread/INFO]: Chlyster[/141.134.253.168:53399] logged in with entity id 1374647 at (-72.03043340826233, 40.0, -138.97504383561167)
-[18:23:37] [Server thread/INFO]: Chlyster joined the game
-[18:29:30] [Server thread/INFO]: Chlyster lost connection: Disconnected
-[18:29:30] [Server thread/INFO]: Chlyster left the game
+[17:45:16] [Server thread/INFO]: Stopping the server
+[17:45:16] [Server thread/INFO]: Stopping server
+[17:45:16] [Server thread/INFO]: Saving players
+[17:45:16] [Server thread/INFO]: Saving worlds
+[17:45:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:45:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
